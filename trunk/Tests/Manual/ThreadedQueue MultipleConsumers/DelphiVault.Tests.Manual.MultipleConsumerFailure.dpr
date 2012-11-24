@@ -2,7 +2,7 @@
 //http://stackoverflow.com/questions/4856306/tthreadedqueue-not-capable-of-multiple-consumers
 //http://qc.embarcadero.com/wc/qcmain.aspx?d=91246
 //http://qc.embarcadero.com/wc/qcmain.aspx?d=101114   (Resolved)
-program MultipleConsumerFailure;
+program DelphiVault.Tests.Manual.MultipleConsumerFailure;
 
 {$APPTYPE CONSOLE}
 
