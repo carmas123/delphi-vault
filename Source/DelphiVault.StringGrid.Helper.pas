@@ -1,3 +1,5 @@
+//Written with Delphi XE3 Pro
+//Created Nov 24, 2012 by Darian Miller
 unit DelphiVault.StringGrid.Helper;
 
 interface
