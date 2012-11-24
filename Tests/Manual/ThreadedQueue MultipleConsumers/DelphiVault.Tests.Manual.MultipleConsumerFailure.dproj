@@ -3,7 +3,7 @@
         <ProjectGuid>{41E8D838-AC88-440D-86AF-C51BD64DA8BA}</ProjectGuid>
         <ProjectVersion>14.3</ProjectVersion>
         <FrameworkType>None</FrameworkType>
-        <MainSource>MultipleConsumerFailure.dpr</MainSource>
+        <MainSource>DelphiVault.Tests.Manual.MultipleConsumerFailure.dpr</MainSource>
         <Base>True</Base>
         <Config Condition="'$(Config)'==''">Debug</Config>
         <Platform Condition="'$(Platform)'==''">Win32</Platform>
@@ -140,7 +140,7 @@
                     <VersionInfoKeys Name="CFBundleExecutable"/>
                 </VersionInfoKeys>
                 <Source>
-                    <Source Name="MainSource">MultipleConsumerFailure.dpr</Source>
+                    <Source Name="MainSource">DelphiVault.Tests.Manual.MultipleConsumerFailure.dpr</Source>
                 </Source>
             </Delphi.Personality>
             <Deployment/>
