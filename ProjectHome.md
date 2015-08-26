@@ -1,0 +1,1 @@
+Code project for various Delphi routines created by and for the Delphi Community
